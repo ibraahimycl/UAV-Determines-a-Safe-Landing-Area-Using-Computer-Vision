@@ -156,6 +156,13 @@ This project is open source and available under the MIT License.
 **Ibrahim Yucel**
 - Medium: [@ibraahimycl](https://medium.com/@ibraahimycl)
 
+## 👥 Project Team
+
+This project was developed by:
+
+- [İbrahim Yücel](https://github.com/ibraahimycl)
+- [Yusuf Doğu](https://github.com/yusufdogu)
+
 ## 🙏 Acknowledgments
 
 - Computer vision techniques adapted for UAV landing detection
